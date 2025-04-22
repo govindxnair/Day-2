@@ -1,1 +1,1 @@
-# Day-2
+Day 2	Loaded the Dataset into PowerBi	In the Model View tab, changed the format of Order Date and Ship Date from text to date.	In the transform data , checked for any missing values and removed duplicated using Remove Rows.	Finally created meaningful visualisations from the graphs available.
